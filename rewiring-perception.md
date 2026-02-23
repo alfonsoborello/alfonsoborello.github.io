@@ -5,8 +5,8 @@ Listen to the Deep Dive podcast
 
 <div align="center" style="margin: 20px 0;">
   <iframe 
-    width="400" 
-    height="225" 
+    width="320" 
+    height="180" 
     src="https://www.youtube.com/embed/kduRKPjBRmw" 
     title="YouTube video player" 
     frameborder="0" 
