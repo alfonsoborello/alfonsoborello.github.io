@@ -1,7 +1,10 @@
 Rewiring Perception: A New Reality
 by Alfonso Borello
 
-Listen to the Deep Dive podcast [![Watch the video](https://img.youtube.com/vi/kduRKPjBRmw/maxresdefault.jpg)](https://www.youtube.com/watch?v=kduRKPjBRmw) 
+Listen to the Deep Dive podcast [![Watch the video]
+<a href="https://www.youtube.com/watch?v=kduRKPjBRmw" target="_blank">
+  <img src="https://img.youtube.com/vi/kduRKPjBRmw/maxresdefault.jpg" alt="Watch the video" style="width:100%; max-width:600px;">
+</a>
 
 Deconstructing Perception, Rebuilding Reality.
 You think you see the world. You are wrong.
