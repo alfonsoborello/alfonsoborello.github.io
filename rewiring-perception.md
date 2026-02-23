@@ -3,11 +3,12 @@ by Alfonso Borello
 
 Listen to the Deep Dive podcast 
 
-<div class="video-container" style="text-align: center; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
   <iframe 
     width="400" 
     height="225" 
     src="https://www.youtube.com/embed/kduRKPjBRmw" 
+    title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
