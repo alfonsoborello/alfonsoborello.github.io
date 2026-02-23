@@ -1,7 +1,9 @@
 Rewiring Perception: A New Reality
 by Alfonso Borello
 
-Listen to the Deep Dive podcast https://youtu.be/KvB02-F9z-I?si=rx7sDYGOiiVJ8Q6x
+Listen to the Deep Dive podcast 
+
+<iframe width="967" height="559" src="https://www.youtube.com/embed/kduRKPjBRmw" title="The Glass Wall: Breaking the Illusion of Separation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Deconstructing Perception, Rebuilding Reality.
 You think you see the world. You are wrong.
